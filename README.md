@@ -1,6 +1,6 @@
 # HW-AWS-KMeans-PCA--Sagemaker
 
-ADNAN QUADERI - Choice:  OPTION 2
+ADNAN QUADERI - Choice:  OPTION 2  - crypto_clustering.ipynb
 
 # Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
 
