@@ -2,6 +2,10 @@
 
 ADNAN QUADERI - Choice:  OPTION 2  - crypto_clustering.ipynb
 
+
+![image](https://user-images.githubusercontent.com/30733057/148657409-347de84a-59bc-4b1e-8b3c-1d17b9b3e6c2.png)
+
+
 # Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
 
 ## Background
